@@ -4,7 +4,7 @@ R script to convert a spreadsheet containing researcher's data to .md file for R
 - map QualiID e Dept acronyms to full text (hardcoded mapping)
 - remove "Is_Padova" = No 
 - it generates a file MD with the following format:
-- 
+ 
 # Database Ricercatori Univeristà di Padova
 
 ## Ricercatore: {Cognome} {Nome}
